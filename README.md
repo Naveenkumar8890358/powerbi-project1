@@ -21,7 +21,5 @@
 - Highlighted key HR performance metrics  
 
 ## Output
-Interactive Power BI HR Analytics Dashboard.
+- Interactive Power BI HR Analytics Dashboard.
 
-## Author
-Naveenkumar G
